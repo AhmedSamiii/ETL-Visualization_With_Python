@@ -1,0 +1,322 @@
+product_id,product_name,brand_id,category_id,model_year,list_price,Extract Time,Source
+1,Trek 820 - 2016,9,6,2016,379.99,2024-05-01 21:24:41.466589,datalake
+2,Ritchey Timberwolf Frameset - 2016,5,6,2016,749.99,2024-05-01 21:24:41.466589,datalake
+3,Surly Wednesday Frameset - 2016,8,6,2016,999.99,2024-05-01 21:24:41.466589,datalake
+4,Trek Fuel EX 8 29 - 2016,9,6,2016,2899.99,2024-05-01 21:24:41.466589,datalake
+5,Heller Shagamaw Frame - 2016,3,6,2016,1320.99,2024-05-01 21:24:41.466589,datalake
+6,Surly Ice Cream Truck Frameset - 2016,8,6,2016,469.99,2024-05-01 21:24:41.466589,datalake
+7,Trek Slash 8 27.5 - 2016,9,6,2016,3999.99,2024-05-01 21:24:41.466589,datalake
+8,Trek Remedy 29 Carbon Frameset - 2016,9,6,2016,1799.99,2024-05-01 21:24:41.466589,datalake
+9,Trek Conduit+ - 2016,9,5,2016,2999.99,2024-05-01 21:24:41.466589,datalake
+10,Surly Straggler - 2016,8,4,2016,1549.0,2024-05-01 21:24:41.466589,datalake
+11,Surly Straggler 650b - 2016,8,4,2016,1680.99,2024-05-01 21:24:41.466589,datalake
+12,Electra Townie Original 21D - 2016,1,3,2016,549.99,2024-05-01 21:24:41.466589,datalake
+13,Electra Cruiser 1 (24-Inch) - 2016,1,3,2016,269.99,2024-05-01 21:24:41.466589,datalake
+14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1,3,2016,269.99,2024-05-01 21:24:41.466589,datalake
+15,Electra Moto 1 - 2016,1,3,2016,529.99,2024-05-01 21:24:41.466589,datalake
+16,Electra Townie Original 7D EQ - 2016,1,3,2016,599.99,2024-05-01 21:24:41.466589,datalake
+17,Pure Cycles Vine 8-Speed - 2016,4,3,2016,429.0,2024-05-01 21:24:41.466589,datalake
+18,Pure Cycles Western 3-Speed - Women's - 2015/2016,4,3,2016,449.0,2024-05-01 21:24:41.466589,datalake
+19,Pure Cycles William 3-Speed - 2016,4,3,2016,449.0,2024-05-01 21:24:41.466589,datalake
+20,Electra Townie Original 7D EQ - Women's - 2016,1,3,2016,599.99,2024-05-01 21:24:41.466589,datalake
+21,Electra Cruiser 1 (24-Inch) - 2016,1,1,2016,269.99,2024-05-01 21:24:41.466589,datalake
+22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1,1,2016,269.99,2024-05-01 21:24:41.466589,datalake
+23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,1,1,2016,299.99,2024-05-01 21:24:41.466589,datalake
+24,Electra Townie Original 21D - 2016,1,2,2016,549.99,2024-05-01 21:24:41.466589,datalake
+25,Electra Townie Original 7D - 2015/2016,1,2,2016,499.99,2024-05-01 21:24:41.466589,datalake
+26,Electra Townie Original 7D EQ - 2016,1,2,2016,599.99,2024-05-01 21:24:41.466589,datalake
+27,Surly Big Dummy Frameset - 2017,8,6,2017,999.99,2024-05-01 21:24:41.466589,datalake
+28,Surly Karate Monkey 27.5+ Frameset - 2017,8,6,2017,2499.99,2024-05-01 21:24:41.466589,datalake
+29,Trek X-Caliber 8 - 2017,9,6,2017,999.99,2024-05-01 21:24:41.466589,datalake
+30,Surly Ice Cream Truck Frameset - 2017,8,6,2017,999.99,2024-05-01 21:24:41.466589,datalake
+31,Surly Wednesday - 2017,8,6,2017,1632.99,2024-05-01 21:24:41.466589,datalake
+32,Trek Farley Alloy Frameset - 2017,9,6,2017,469.99,2024-05-01 21:24:41.466589,datalake
+33,Surly Wednesday Frameset - 2017,8,6,2017,469.99,2024-05-01 21:24:41.466589,datalake
+34,Trek Session DH 27.5 Carbon Frameset - 2017,9,6,2017,469.99,2024-05-01 21:24:41.466589,datalake
+35,Sun Bicycles Spider 3i - 2017,7,6,2017,832.99,2024-05-01 21:24:41.466589,datalake
+36,Surly Troll Frameset - 2017,8,6,2017,832.99,2024-05-01 21:24:41.466589,datalake
+37,Haro Flightline One ST - 2017,2,6,2017,379.99,2024-05-01 21:24:41.466589,datalake
+38,Haro Flightline Two 26 Plus - 2017,2,6,2017,549.99,2024-05-01 21:24:41.466589,datalake
+39,Trek Stache 5 - 2017,9,6,2017,1499.99,2024-05-01 21:24:41.466589,datalake
+40,Trek Fuel EX 9.8 29 - 2017,9,6,2017,4999.99,2024-05-01 21:24:41.466589,datalake
+41,Haro Shift R3 - 2017,2,6,2017,1469.99,2024-05-01 21:24:41.466589,datalake
+42,Trek Fuel EX 5 27.5 Plus - 2017,9,6,2017,2299.99,2024-05-01 21:24:41.466589,datalake
+43,Trek Fuel EX 9.8 27.5 Plus - 2017,9,6,2017,5299.99,2024-05-01 21:24:41.466589,datalake
+44,Haro SR 1.1 - 2017,2,6,2017,539.99,2024-05-01 21:24:41.466589,datalake
+45,Haro SR 1.2 - 2017,2,6,2017,869.99,2024-05-01 21:24:41.466589,datalake
+46,Haro SR 1.3 - 2017,2,6,2017,1409.99,2024-05-01 21:24:41.466589,datalake
+47,Trek Remedy 9.8 - 2017,9,6,2017,5299.99,2024-05-01 21:24:41.466589,datalake
+48,Trek Emonda S 4 - 2017,9,7,2017,1499.99,2024-05-01 21:24:41.466589,datalake
+49,Trek Domane SL 6 - 2017,9,7,2017,3499.99,2024-05-01 21:24:41.466589,datalake
+50,Trek Silque SLR 7 Women's - 2017,9,7,2017,5999.99,2024-05-01 21:24:41.466589,datalake
+51,Trek Silque SLR 8 Women's - 2017,9,7,2017,6499.99,2024-05-01 21:24:41.466589,datalake
+52,Surly Steamroller - 2017,8,7,2017,875.99,2024-05-01 21:24:41.466589,datalake
+53,Surly Ogre Frameset - 2017,8,7,2017,749.99,2024-05-01 21:24:41.466589,datalake
+54,Trek Domane SL Disc Frameset - 2017,9,7,2017,3199.99,2024-05-01 21:24:41.466589,datalake
+55,Trek Domane S 6 - 2017,9,7,2017,2699.99,2024-05-01 21:24:41.466589,datalake
+56,Trek Domane SLR 6 Disc - 2017,9,7,2017,5499.99,2024-05-01 21:24:41.466589,datalake
+57,Trek Emonda S 5 - 2017,9,7,2017,1999.99,2024-05-01 21:24:41.466589,datalake
+58,Trek Madone 9.2 - 2017,9,7,2017,4999.99,2024-05-01 21:24:41.466589,datalake
+59,Trek Domane S 5 Disc - 2017,9,7,2017,2599.99,2024-05-01 21:24:41.466589,datalake
+60,Sun Bicycles ElectroLite - 2017,7,5,2017,1559.99,2024-05-01 21:24:41.466589,datalake
+61,Trek Powerfly 8 FS Plus - 2017,9,5,2017,4999.99,2024-05-01 21:24:41.466589,datalake
+62,Trek Boone 7 - 2017,9,4,2017,3499.99,2024-05-01 21:24:41.466589,datalake
+63,Trek Boone Race Shop Limited - 2017,9,4,2017,3499.99,2024-05-01 21:24:41.466589,datalake
+64,Electra Townie Original 7D - 2017,1,3,2017,489.99,2024-05-01 21:24:41.466589,datalake
+65,Sun Bicycles Lil Bolt Type-R - 2017,7,3,2017,346.99,2024-05-01 21:24:41.466589,datalake
+66,Sun Bicycles Revolutions 24 - 2017,7,3,2017,250.99,2024-05-01 21:24:41.466589,datalake
+67,Sun Bicycles Revolutions 24 - Girl's - 2017,7,3,2017,250.99,2024-05-01 21:24:41.466589,datalake
+68,Sun Bicycles Cruz 3 - 2017,7,3,2017,449.99,2024-05-01 21:24:41.466589,datalake
+69,Sun Bicycles Cruz 7 - 2017,7,3,2017,416.99,2024-05-01 21:24:41.466589,datalake
+70,Electra Amsterdam Original 3i - 2015/2017,1,3,2017,659.99,2024-05-01 21:24:41.466589,datalake
+71,Sun Bicycles Atlas X-Type - 2017,7,3,2017,416.99,2024-05-01 21:24:41.466589,datalake
+72,Sun Bicycles Biscayne Tandem 7 - 2017,7,3,2017,619.99,2024-05-01 21:24:41.466589,datalake
+73,Sun Bicycles Brickell Tandem 7 - 2017,7,3,2017,749.99,2024-05-01 21:24:41.466589,datalake
+74,Electra Cruiser Lux 1 - 2017,1,3,2017,439.99,2024-05-01 21:24:41.466589,datalake
+75,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,1,3,2017,599.99,2024-05-01 21:24:41.466589,datalake
+76,"Electra Girl's Hawaii 1 16"" - 2017",1,3,2017,299.99,2024-05-01 21:24:41.466589,datalake
+77,Electra Glam Punk 3i Ladies' - 2017,1,3,2017,799.99,2024-05-01 21:24:41.466589,datalake
+78,Sun Bicycles Biscayne Tandem CB - 2017,7,3,2017,647.99,2024-05-01 21:24:41.466589,datalake
+79,Sun Bicycles Boardwalk (24-inch Wheels) - 2017,7,3,2017,402.99,2024-05-01 21:24:41.466589,datalake
+80,Sun Bicycles Brickell Tandem CB - 2017,7,3,2017,761.99,2024-05-01 21:24:41.466589,datalake
+81,Electra Amsterdam Fashion 7i Ladies' - 2017,1,3,2017,1099.99,2024-05-01 21:24:41.466589,datalake
+82,Electra Amsterdam Original 3i Ladies' - 2017,1,3,2017,659.99,2024-05-01 21:24:41.466589,datalake
+83,Trek Boy's Kickster - 2015/2017,9,1,2017,149.99,2024-05-01 21:24:41.466589,datalake
+84,Sun Bicycles Lil Kitt'n - 2017,7,1,2017,109.99,2024-05-01 21:24:41.466589,datalake
+85,Haro Downtown 16 - 2017,2,1,2017,329.99,2024-05-01 21:24:41.466589,datalake
+86,Trek Girl's Kickster - 2017,9,1,2017,149.99,2024-05-01 21:24:41.466589,datalake
+87,Trek Precaliber 12 Boys - 2017,9,1,2017,189.99,2024-05-01 21:24:41.466589,datalake
+88,Trek Precaliber 12 Girls - 2017,9,1,2017,189.99,2024-05-01 21:24:41.466589,datalake
+89,Trek Precaliber 16 Boys - 2017,9,1,2017,209.99,2024-05-01 21:24:41.466589,datalake
+90,Trek Precaliber 16 Girls - 2017,9,1,2017,209.99,2024-05-01 21:24:41.466589,datalake
+91,Trek Precaliber 24 (21-Speed) - Girls - 2017,9,1,2017,349.99,2024-05-01 21:24:41.466589,datalake
+92,Haro Shredder 20 - 2017,2,1,2017,209.99,2024-05-01 21:24:41.466589,datalake
+93,Haro Shredder 20 Girls - 2017,2,1,2017,209.99,2024-05-01 21:24:41.466589,datalake
+94,Haro Shredder Pro 20 - 2017,2,1,2017,249.99,2024-05-01 21:24:41.466589,datalake
+95,"Electra Girl's Hawaii 1 16"" - 2017",1,1,2017,299.99,2024-05-01 21:24:41.466589,datalake
+96,Electra Moto 3i (20-inch) - Boy's - 2017,1,1,2017,349.99,2024-05-01 21:24:41.466589,datalake
+97,Electra Savannah 3i (20-inch) - Girl's - 2017,1,1,2017,349.99,2024-05-01 21:24:41.466589,datalake
+98,Electra Straight 8 3i (20-inch) - Boy's - 2017,1,1,2017,489.99,2024-05-01 21:24:41.466589,datalake
+99,Electra Sugar Skulls 1 (20-inch) - Girl's - 2017,1,1,2017,299.99,2024-05-01 21:24:41.466589,datalake
+100,Electra Townie 3i EQ (20-inch) - Boys' - 2017,1,1,2017,489.99,2024-05-01 21:24:41.466589,datalake
+101,Electra Townie 7D (20-inch) - Boys' - 2017,1,1,2017,339.99,2024-05-01 21:24:41.466589,datalake
+102,Electra Townie Original 7D - 2017,1,2,2017,489.99,2024-05-01 21:24:41.466589,datalake
+103,Sun Bicycles Streamway 3 - 2017,7,2,2017,551.99,2024-05-01 21:24:41.466589,datalake
+104,Sun Bicycles Streamway - 2017,7,2,2017,481.99,2024-05-01 21:24:41.466589,datalake
+105,Sun Bicycles Streamway 7 - 2017,7,2,2017,533.99,2024-05-01 21:24:41.466589,datalake
+106,Sun Bicycles Cruz 3 - 2017,7,2,2017,449.99,2024-05-01 21:24:41.466589,datalake
+107,Sun Bicycles Cruz 7 - 2017,7,2,2017,416.99,2024-05-01 21:24:41.466589,datalake
+108,Sun Bicycles Cruz 3 - Women's - 2017,7,2,2017,449.99,2024-05-01 21:24:41.466589,datalake
+109,Sun Bicycles Cruz 7 - Women's - 2017,7,2,2017,416.99,2024-05-01 21:24:41.466589,datalake
+110,Sun Bicycles Drifter 7 - 2017,7,2,2017,470.99,2024-05-01 21:24:41.466589,datalake
+111,Sun Bicycles Drifter 7 - Women's - 2017,7,2,2017,470.99,2024-05-01 21:24:41.466589,datalake
+112,Trek 820 - 2018,9,6,2018,379.99,2024-05-01 21:24:41.466589,datalake
+113,Trek Marlin 5 - 2018,9,6,2018,489.99,2024-05-01 21:24:41.466589,datalake
+114,Trek Marlin 6 - 2018,9,6,2018,579.99,2024-05-01 21:24:41.466589,datalake
+115,Trek Fuel EX 8 29 - 2018,9,6,2018,3199.99,2024-05-01 21:24:41.466589,datalake
+116,Trek Marlin 7 - 2017/2018,9,6,2018,749.99,2024-05-01 21:24:41.466589,datalake
+117,Trek Ticket S Frame - 2018,9,6,2018,1469.99,2024-05-01 21:24:41.466589,datalake
+118,Trek X-Caliber 8 - 2018,9,6,2018,999.99,2024-05-01 21:24:41.466589,datalake
+119,Trek Kids' Neko - 2018,9,6,2018,469.99,2024-05-01 21:24:41.466589,datalake
+120,Trek Fuel EX 7 29 - 2018,9,6,2018,2499.99,2024-05-01 21:24:41.466589,datalake
+121,Surly Krampus Frameset - 2018,8,6,2018,2499.99,2024-05-01 21:24:41.466589,datalake
+122,Surly Troll Frameset - 2018,8,6,2018,2499.99,2024-05-01 21:24:41.466589,datalake
+123,Trek Farley Carbon Frameset - 2018,9,6,2018,999.99,2024-05-01 21:24:41.466589,datalake
+124,Surly Krampus - 2018,8,6,2018,1499.0,2024-05-01 21:24:41.466589,datalake
+125,Trek Kids' Dual Sport - 2018,9,6,2018,469.99,2024-05-01 21:24:41.466589,datalake
+126,Surly Big Fat Dummy Frameset - 2018,8,6,2018,469.99,2024-05-01 21:24:41.466589,datalake
+127,Surly Pack Rat Frameset - 2018,8,6,2018,469.99,2024-05-01 21:24:41.466589,datalake
+128,Surly ECR 27.5 - 2018,8,6,2018,1899.0,2024-05-01 21:24:41.466589,datalake
+129,Trek X-Caliber 7 - 2018,9,6,2018,919.99,2024-05-01 21:24:41.466589,datalake
+130,Trek Stache Carbon Frameset - 2018,9,6,2018,919.99,2024-05-01 21:24:41.466589,datalake
+131,Heller Bloodhound Trail - 2018,3,6,2018,2599.0,2024-05-01 21:24:41.466589,datalake
+132,Trek Procal AL Frameset - 2018,9,6,2018,1499.99,2024-05-01 21:24:41.466589,datalake
+133,Trek Procaliber Frameset - 2018,9,6,2018,1499.99,2024-05-01 21:24:41.466589,datalake
+134,Trek Remedy 27.5 C Frameset - 2018,9,6,2018,1499.99,2024-05-01 21:24:41.466589,datalake
+135,Trek X-Caliber Frameset - 2018,9,6,2018,1499.99,2024-05-01 21:24:41.466589,datalake
+136,Trek Procaliber 6 - 2018,9,6,2018,1799.99,2024-05-01 21:24:41.466589,datalake
+137,Heller Shagamaw GX1 - 2018,3,6,2018,2599.0,2024-05-01 21:24:41.466589,datalake
+138,Trek Fuel EX 5 Plus - 2018,9,6,2018,2249.99,2024-05-01 21:24:41.466589,datalake
+139,Trek Remedy 7 27.5 - 2018,9,6,2018,2999.99,2024-05-01 21:24:41.466589,datalake
+140,Trek Remedy 9.8 27.5 - 2018,9,6,2018,4999.99,2024-05-01 21:24:41.466589,datalake
+141,Trek Stache 5 - 2018,9,6,2018,1599.99,2024-05-01 21:24:41.466589,datalake
+142,Trek Fuel EX 8 29 XT - 2018,9,6,2018,3199.99,2024-05-01 21:24:41.466589,datalake
+143,Trek Domane ALR 3 - 2018,9,7,2018,1099.99,2024-05-01 21:24:41.466589,datalake
+144,Trek Domane ALR 4 Disc - 2018,9,7,2018,1549.99,2024-05-01 21:24:41.466589,datalake
+145,Trek Domane ALR 5 Disc - 2018,9,7,2018,1799.99,2024-05-01 21:24:41.466589,datalake
+146,Trek Domane SLR 6 - 2018,9,7,2018,4999.99,2024-05-01 21:24:41.466589,datalake
+147,Trek Domane ALR 5 Gravel - 2018,9,7,2018,1799.99,2024-05-01 21:24:41.466589,datalake
+148,Trek Domane SL 8 Disc - 2018,9,7,2018,5499.99,2024-05-01 21:24:41.466589,datalake
+149,Trek Domane SLR 8 Disc - 2018,9,7,2018,7499.99,2024-05-01 21:24:41.466589,datalake
+150,Trek Emonda SL 7 - 2018,9,7,2018,4499.99,2024-05-01 21:24:41.466589,datalake
+151,Trek Domane ALR 4 Disc Women's - 2018,9,7,2018,1549.99,2024-05-01 21:24:41.466589,datalake
+152,Trek Domane SL 5 Disc Women's - 2018,9,7,2018,2499.99,2024-05-01 21:24:41.466589,datalake
+153,Trek Domane SL 7 Women's - 2018,9,7,2018,4999.99,2024-05-01 21:24:41.466589,datalake
+154,Trek Domane SLR 6 Disc Women's - 2018,9,7,2018,5499.99,2024-05-01 21:24:41.466589,datalake
+155,Trek Domane SLR 9 Disc - 2018,9,7,2018,11999.99,2024-05-01 21:24:41.466589,datalake
+156,Trek Domane SL Frameset - 2018,9,7,2018,6499.99,2024-05-01 21:24:41.466589,datalake
+157,Trek Domane SL Frameset Women's - 2018,9,7,2018,6499.99,2024-05-01 21:24:41.466589,datalake
+158,Trek CrossRip 1 - 2018,9,7,2018,959.99,2024-05-01 21:24:41.466589,datalake
+159,Trek Emonda ALR 6 - 2018,9,7,2018,2299.99,2024-05-01 21:24:41.466589,datalake
+160,Trek Emonda SLR 6 - 2018,9,7,2018,4499.99,2024-05-01 21:24:41.466589,datalake
+161,Surly ECR - 2018,8,7,2018,1899.0,2024-05-01 21:24:41.466589,datalake
+162,Trek Emonda SL 6 Disc - 2018,9,7,2018,2999.99,2024-05-01 21:24:41.466589,datalake
+163,Surly Pack Rat - 2018,8,7,2018,1349.0,2024-05-01 21:24:41.466589,datalake
+164,Surly Straggler 650b - 2018,8,7,2018,1549.0,2024-05-01 21:24:41.466589,datalake
+165,Trek 1120 - 2018,9,7,2018,2499.99,2024-05-01 21:24:41.466589,datalake
+166,Trek Domane AL 2 Women's - 2018,9,7,2018,749.99,2024-05-01 21:24:41.466589,datalake
+167,Surly ECR Frameset - 2018,8,7,2018,749.99,2024-05-01 21:24:41.466589,datalake
+168,Surly Straggler - 2018,8,7,2018,1549.0,2024-05-01 21:24:41.466589,datalake
+169,Trek Emonda SLR 8 - 2018,9,7,2018,6499.99,2024-05-01 21:24:41.466589,datalake
+170,Trek CrossRip 2 - 2018,9,7,2018,1299.99,2024-05-01 21:24:41.466589,datalake
+171,Trek Domane SL 6 - 2018,9,7,2018,3199.99,2024-05-01 21:24:41.466589,datalake
+172,Trek Domane ALR Disc Frameset - 2018,9,7,2018,3199.99,2024-05-01 21:24:41.466589,datalake
+173,Trek Domane ALR Frameset - 2018,9,7,2018,3199.99,2024-05-01 21:24:41.466589,datalake
+174,Trek Domane SLR Disc Frameset - 2018,9,7,2018,3199.99,2024-05-01 21:24:41.466589,datalake
+175,Trek Domane SLR Frameset - 2018,9,7,2018,3199.99,2024-05-01 21:24:41.466589,datalake
+176,Trek Madone 9 Frameset - 2018,9,7,2018,3199.99,2024-05-01 21:24:41.466589,datalake
+177,Trek Domane SLR 6 Disc - 2018,9,7,2018,5499.99,2024-05-01 21:24:41.466589,datalake
+178,Trek Domane AL 2 - 2018,9,7,2018,749.99,2024-05-01 21:24:41.466589,datalake
+179,Trek Domane AL 3 - 2018,9,7,2018,919.99,2024-05-01 21:24:41.466589,datalake
+180,Trek Domane AL 3 Women's - 2018,9,7,2018,919.99,2024-05-01 21:24:41.466589,datalake
+181,Trek Domane SL 5 - 2018,9,7,2018,2199.99,2024-05-01 21:24:41.466589,datalake
+182,Trek Domane SL 5 Disc - 2018,9,7,2018,2499.99,2024-05-01 21:24:41.466589,datalake
+183,Trek Domane SL 5 Women's - 2018,9,7,2018,2199.99,2024-05-01 21:24:41.466589,datalake
+184,Trek Domane SL 6 Disc - 2018,9,7,2018,3499.99,2024-05-01 21:24:41.466589,datalake
+185,Trek Conduit+ - 2018,9,5,2018,2799.99,2024-05-01 21:24:41.466589,datalake
+186,Trek CrossRip+ - 2018,9,5,2018,4499.99,2024-05-01 21:24:41.466589,datalake
+187,Trek Neko+ - 2018,9,5,2018,2799.99,2024-05-01 21:24:41.466589,datalake
+188,Trek XM700+ Lowstep - 2018,9,5,2018,3499.99,2024-05-01 21:24:41.466589,datalake
+189,Trek Lift+ Lowstep - 2018,9,5,2018,2799.99,2024-05-01 21:24:41.466589,datalake
+190,Trek Dual Sport+ - 2018,9,5,2018,2799.99,2024-05-01 21:24:41.466589,datalake
+191,Electra Loft Go! 8i - 2018,1,5,2018,2799.99,2024-05-01 21:24:41.466589,datalake
+192,Electra Townie Go! 8i - 2017/2018,1,5,2018,2599.99,2024-05-01 21:24:41.466589,datalake
+193,Trek Lift+ - 2018,9,5,2018,2799.99,2024-05-01 21:24:41.466589,datalake
+194,Trek XM700+ - 2018,9,5,2018,3499.99,2024-05-01 21:24:41.466589,datalake
+195,Electra Townie Go! 8i Ladies' - 2018,1,5,2018,2599.99,2024-05-01 21:24:41.466589,datalake
+196,Trek Verve+ - 2018,9,5,2018,2299.99,2024-05-01 21:24:41.466589,datalake
+197,Trek Verve+ Lowstep - 2018,9,5,2018,2299.99,2024-05-01 21:24:41.466589,datalake
+198,Electra Townie Commute Go! - 2018,1,5,2018,2999.99,2024-05-01 21:24:41.466589,datalake
+199,Electra Townie Commute Go! Ladies' - 2018,1,5,2018,2999.99,2024-05-01 21:24:41.466589,datalake
+200,Trek Powerfly 5 - 2018,9,5,2018,3499.99,2024-05-01 21:24:41.466589,datalake
+201,Trek Powerfly 5 FS - 2018,9,5,2018,4499.99,2024-05-01 21:24:41.466589,datalake
+202,Trek Powerfly 5 Women's - 2018,9,5,2018,3499.99,2024-05-01 21:24:41.466589,datalake
+203,Trek Powerfly 7 FS - 2018,9,5,2018,4999.99,2024-05-01 21:24:41.466589,datalake
+204,Trek Super Commuter+ 7 - 2018,9,5,2018,3599.99,2024-05-01 21:24:41.466589,datalake
+205,Trek Super Commuter+ 8S - 2018,9,5,2018,4999.99,2024-05-01 21:24:41.466589,datalake
+206,Trek Boone 5 Disc - 2018,9,4,2018,3299.99,2024-05-01 21:24:41.466589,datalake
+207,Trek Boone 7 Disc - 2018,9,4,2018,3999.99,2024-05-01 21:24:41.466589,datalake
+208,Trek Crockett 5 Disc - 2018,9,4,2018,1799.99,2024-05-01 21:24:41.466589,datalake
+209,Trek Crockett 7 Disc - 2018,9,4,2018,2999.99,2024-05-01 21:24:41.466589,datalake
+210,Surly Straggler - 2018,8,4,2018,1549.0,2024-05-01 21:24:41.466589,datalake
+211,Surly Straggler 650b - 2018,8,4,2018,1549.0,2024-05-01 21:24:41.466589,datalake
+212,Electra Townie Original 21D - 2018,1,3,2018,559.99,2024-05-01 21:24:41.466589,datalake
+213,Electra Cruiser 1 - 2016/2017/2018,1,3,2018,269.99,2024-05-01 21:24:41.466589,datalake
+214,Electra Tiger Shark 3i - 2018,1,3,2018,899.99,2024-05-01 21:24:41.466589,datalake
+215,Electra Queen of Hearts 3i - 2018,1,3,2018,749.99,2024-05-01 21:24:41.466589,datalake
+216,Electra Super Moto 8i - 2018,1,3,2018,899.99,2024-05-01 21:24:41.466589,datalake
+217,Electra Straight 8 3i - 2018,1,3,2018,909.99,2024-05-01 21:24:41.466589,datalake
+218,Electra Cruiser 7D - 2016/2017/2018,1,3,2018,319.99,2024-05-01 21:24:41.466589,datalake
+219,Electra Moto 3i - 2018,1,3,2018,639.99,2024-05-01 21:24:41.466589,datalake
+220,Electra Cruiser 1 Ladies' - 2018,1,3,2018,269.99,2024-05-01 21:24:41.466589,datalake
+221,Electra Cruiser 7D Ladies' - 2016/2018,1,3,2018,319.99,2024-05-01 21:24:41.466589,datalake
+222,Electra Cruiser 1 Tall - 2016/2018,1,3,2018,269.99,2024-05-01 21:24:41.466589,datalake
+223,Electra Cruiser Lux 3i - 2018,1,3,2018,529.99,2024-05-01 21:24:41.466589,datalake
+224,Electra Cruiser Lux 7D - 2018,1,3,2018,479.99,2024-05-01 21:24:41.466589,datalake
+225,Electra Delivery 3i - 2016/2017/2018,1,3,2018,959.99,2024-05-01 21:24:41.466589,datalake
+226,Electra Townie Original 21D EQ - 2017/2018,1,3,2018,679.99,2024-05-01 21:24:41.466589,datalake
+227,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,1,3,2018,319.99,2024-05-01 21:24:41.466589,datalake
+228,Electra Cruiser 7D Tall - 2016/2018,1,3,2018,319.99,2024-05-01 21:24:41.466589,datalake
+229,Electra Cruiser Lux 1 - 2016/2018,1,3,2018,429.99,2024-05-01 21:24:41.466589,datalake
+230,Electra Cruiser Lux 1 Ladies' - 2018,1,3,2018,429.99,2024-05-01 21:24:41.466589,datalake
+231,Electra Cruiser Lux 3i Ladies' - 2018,1,3,2018,529.99,2024-05-01 21:24:41.466589,datalake
+232,Electra Cruiser Lux 7D Ladies' - 2018,1,3,2018,479.99,2024-05-01 21:24:41.466589,datalake
+233,Electra Cruiser Lux Fat Tire 7D - 2018,1,3,2018,639.99,2024-05-01 21:24:41.466589,datalake
+234,Electra Daydreamer 3i Ladies' - 2018,1,3,2018,899.99,2024-05-01 21:24:41.466589,datalake
+235,Electra Koa 3i Ladies' - 2018,1,3,2018,899.99,2024-05-01 21:24:41.466589,datalake
+236,Electra Morningstar 3i Ladies' - 2018,1,3,2018,749.99,2024-05-01 21:24:41.466589,datalake
+237,Electra Relic 3i - 2018,1,3,2018,849.99,2024-05-01 21:24:41.466589,datalake
+238,Electra Townie Balloon 8D EQ - 2016/2017/2018,1,3,2018,749.99,2024-05-01 21:24:41.466589,datalake
+239,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,1,3,2018,749.99,2024-05-01 21:24:41.466589,datalake
+240,Electra Townie Commute 27D Ladies - 2018,1,3,2018,899.99,2024-05-01 21:24:41.466589,datalake
+241,Electra Townie Commute 8D - 2018,1,3,2018,749.99,2024-05-01 21:24:41.466589,datalake
+242,Electra Townie Commute 8D Ladies' - 2018,1,3,2018,699.99,2024-05-01 21:24:41.466589,datalake
+243,Electra Townie Original 21D EQ Ladies' - 2018,1,3,2018,679.99,2024-05-01 21:24:41.466589,datalake
+244,Electra Townie Original 21D Ladies' - 2018,1,3,2018,559.99,2024-05-01 21:24:41.466589,datalake
+245,Electra Townie Original 3i EQ - 2017/2018,1,3,2018,659.99,2024-05-01 21:24:41.466589,datalake
+246,Electra Townie Original 3i EQ Ladies' - 2018,1,3,2018,639.99,2024-05-01 21:24:41.466589,datalake
+247,Electra Townie Original 7D EQ - 2018,1,3,2018,599.99,2024-05-01 21:24:41.466589,datalake
+248,Electra Townie Original 7D EQ Ladies' - 2017/2018,1,3,2018,599.99,2024-05-01 21:24:41.466589,datalake
+249,Electra White Water 3i - 2018,1,3,2018,749.99,2024-05-01 21:24:41.466589,datalake
+250,Electra Townie Go! 8i - 2017/2018,1,3,2018,2599.99,2024-05-01 21:24:41.466589,datalake
+251,Electra Townie Commute Go! - 2018,1,3,2018,2999.99,2024-05-01 21:24:41.466589,datalake
+252,Electra Townie Commute Go! Ladies' - 2018,1,3,2018,2999.99,2024-05-01 21:24:41.466589,datalake
+253,Electra Townie Go! 8i Ladies' - 2018,1,3,2018,2599.99,2024-05-01 21:24:41.466589,datalake
+254,Electra Townie Balloon 3i EQ - 2017/2018,1,3,2018,749.99,2024-05-01 21:24:41.466589,datalake
+255,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,1,3,2018,899.99,2024-05-01 21:24:41.466589,datalake
+256,Electra Townie Commute 27D - 2018,1,3,2018,899.99,2024-05-01 21:24:41.466589,datalake
+257,Electra Amsterdam Fashion 3i Ladies' - 2017/2018,1,3,2018,899.99,2024-05-01 21:24:41.466589,datalake
+258,Electra Amsterdam Royal 8i - 2017/2018,1,3,2018,1259.9,2024-05-01 21:24:41.466589,datalake
+259,Electra Amsterdam Royal 8i Ladies - 2018,1,3,2018,1199.99,2024-05-01 21:24:41.466589,datalake
+260,Electra Townie Balloon 3i EQ Ladies' - 2018,1,3,2018,799.99,2024-05-01 21:24:41.466589,datalake
+261,Electra Townie Balloon 7i EQ - 2018,1,3,2018,899.99,2024-05-01 21:24:41.466589,datalake
+262,Trek MT 201 - 2018,9,1,2018,249.99,2024-05-01 21:24:41.466589,datalake
+263,Strider Classic 12 Balance Bike - 2018,6,1,2018,89.99,2024-05-01 21:24:41.466589,datalake
+264,Strider Sport 16 - 2018,6,1,2018,249.99,2024-05-01 21:24:41.466589,datalake
+265,Strider Strider 20 Sport - 2018,6,1,2018,289.99,2024-05-01 21:24:41.466589,datalake
+266,Trek Superfly 20 - 2018,9,1,2018,399.99,2024-05-01 21:24:41.466589,datalake
+267,Trek Precaliber 12 Girl's - 2018,9,1,2018,199.99,2024-05-01 21:24:41.466589,datalake
+268,Trek Kickster - 2018,9,1,2018,159.99,2024-05-01 21:24:41.466589,datalake
+269,Trek Precaliber 12 Boy's - 2018,9,1,2018,199.99,2024-05-01 21:24:41.466589,datalake
+270,Trek Precaliber 16 Boy's - 2018,9,1,2018,209.99,2024-05-01 21:24:41.466589,datalake
+271,Trek Precaliber 16 Girl's - 2018,9,1,2018,209.99,2024-05-01 21:24:41.466589,datalake
+272,Trek Precaliber 20 6-speed Boy's - 2018,9,1,2018,289.99,2024-05-01 21:24:41.466589,datalake
+273,Trek Precaliber 20 6-speed Girl's - 2018,9,1,2018,289.99,2024-05-01 21:24:41.466589,datalake
+274,Trek Precaliber 20 Boy's - 2018,9,1,2018,229.99,2024-05-01 21:24:41.466589,datalake
+275,Trek Precaliber 20 Girl's - 2018,9,1,2018,229.99,2024-05-01 21:24:41.466589,datalake
+276,Trek Precaliber 24 (7-Speed) - Boys - 2018,9,1,2018,319.99,2024-05-01 21:24:41.466589,datalake
+277,Trek Precaliber 24 21-speed Boy's - 2018,9,1,2018,369.99,2024-05-01 21:24:41.466589,datalake
+278,Trek Precaliber 24 21-speed Girl's - 2018,9,1,2018,369.99,2024-05-01 21:24:41.466589,datalake
+279,Trek Precaliber 24 7-speed Girl's - 2018,9,1,2018,319.99,2024-05-01 21:24:41.466589,datalake
+280,Trek Superfly 24 - 2017/2018,9,1,2018,489.99,2024-05-01 21:24:41.466589,datalake
+281,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,1,1,2018,319.99,2024-05-01 21:24:41.466589,datalake
+282,Electra Cyclosaurus 1 (16-inch) - Boy's - 2018,1,1,2018,279.99,2024-05-01 21:24:41.466589,datalake
+283,Electra Heartchya 1 (20-inch) - Girl's - 2018,1,1,2018,319.99,2024-05-01 21:24:41.466589,datalake
+284,Electra Savannah 1 (20-inch) - Girl's - 2018,1,1,2018,319.99,2024-05-01 21:24:41.466589,datalake
+285,Electra Soft Serve 1 (16-inch) - Girl's - 2018,1,1,2018,279.99,2024-05-01 21:24:41.466589,datalake
+286,"Electra Starship 1 16"" - 2018",1,1,2018,279.99,2024-05-01 21:24:41.466589,datalake
+287,Electra Straight 8 1 (16-inch) - Boy's - 2018,1,1,2018,279.99,2024-05-01 21:24:41.466589,datalake
+288,Electra Straight 8 1 (20-inch) - Boy's - 2018,1,1,2018,389.99,2024-05-01 21:24:41.466589,datalake
+289,"Electra Superbolt 1 20"" - 2018",1,1,2018,319.99,2024-05-01 21:24:41.466589,datalake
+290,"Electra Superbolt 3i 20"" - 2018",1,1,2018,369.99,2024-05-01 21:24:41.466589,datalake
+291,Electra Sweet Ride 1 (20-inch) - Girl's - 2018,1,1,2018,319.99,2024-05-01 21:24:41.466589,datalake
+292,Electra Sweet Ride 3i (20-inch) - Girls' - 2018,1,1,2018,369.99,2024-05-01 21:24:41.466589,datalake
+293,Electra Tiger Shark 1 (20-inch) - Boys' - 2018,1,1,2018,319.99,2024-05-01 21:24:41.466589,datalake
+294,Electra Tiger Shark 3i (20-inch) - Boys' - 2018,1,1,2018,369.99,2024-05-01 21:24:41.466589,datalake
+295,"Electra Treasure 1 20"" - 2018",1,1,2018,319.99,2024-05-01 21:24:41.466589,datalake
+296,"Electra Treasure 3i 20"" - 2018",1,1,2018,369.99,2024-05-01 21:24:41.466589,datalake
+297,"Electra Under-The-Sea 1 16"" - 2018",1,1,2018,279.99,2024-05-01 21:24:41.466589,datalake
+298,Electra Water Lily 1 (16-inch) - Girl's - 2018,1,1,2018,279.99,2024-05-01 21:24:41.466589,datalake
+299,Electra Townie Original 21D - 2018,1,2,2018,559.99,2024-05-01 21:24:41.466589,datalake
+300,Electra Townie Balloon 3i EQ Ladies' - 2018,1,2,2018,799.99,2024-05-01 21:24:41.466589,datalake
+301,Electra Townie Balloon 7i EQ - 2018,1,2,2018,899.99,2024-05-01 21:24:41.466589,datalake
+302,Electra Townie Original 1 - 2018,1,2,2018,449.99,2024-05-01 21:24:41.466589,datalake
+303,Electra Townie Go! 8i - 2017/2018,1,2,2018,2599.99,2024-05-01 21:24:41.466589,datalake
+304,Electra Townie Original 21D EQ - 2017/2018,1,2,2018,679.99,2024-05-01 21:24:41.466589,datalake
+305,Electra Townie Balloon 3i EQ - 2017/2018,1,2,2018,749.99,2024-05-01 21:24:41.466589,datalake
+306,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,1,2,2018,899.99,2024-05-01 21:24:41.466589,datalake
+307,Electra Townie Balloon 8D EQ - 2016/2017/2018,1,2,2018,749.99,2024-05-01 21:24:41.466589,datalake
+308,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,1,2,2018,749.99,2024-05-01 21:24:41.466589,datalake
+309,Electra Townie Commute 27D - 2018,1,2,2018,899.99,2024-05-01 21:24:41.466589,datalake
+310,Electra Townie Commute 27D Ladies - 2018,1,2,2018,899.99,2024-05-01 21:24:41.466589,datalake
+311,Electra Townie Commute 8D - 2018,1,2,2018,749.99,2024-05-01 21:24:41.466589,datalake
+312,Electra Townie Commute 8D Ladies' - 2018,1,2,2018,699.99,2024-05-01 21:24:41.466589,datalake
+313,Electra Townie Original 1 Ladies' - 2018,1,2,2018,449.99,2024-05-01 21:24:41.466589,datalake
+314,Electra Townie Original 21D EQ Ladies' - 2018,1,2,2018,679.99,2024-05-01 21:24:41.466589,datalake
+315,Electra Townie Original 21D Ladies' - 2018,1,2,2018,559.99,2024-05-01 21:24:41.466589,datalake
+316,Trek Checkpoint ALR 4 Women's - 2019,9,7,2019,1699.99,2024-05-01 21:24:41.466589,datalake
+317,Trek Checkpoint ALR 5 - 2019,9,7,2019,1999.99,2024-05-01 21:24:41.466589,datalake
+318,Trek Checkpoint ALR 5 Women's - 2019,9,7,2019,1999.99,2024-05-01 21:24:41.466589,datalake
+319,Trek Checkpoint SL 5 Women's - 2019,9,7,2019,2799.99,2024-05-01 21:24:41.466589,datalake
+320,Trek Checkpoint SL 6 - 2019,9,7,2019,3799.99,2024-05-01 21:24:41.466589,datalake
+321,Trek Checkpoint ALR Frameset - 2019,9,7,2019,3199.99,2024-05-01 21:24:41.466589,datalake
